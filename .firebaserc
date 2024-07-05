@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "auth": "authenticate-6a3c8"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
